@@ -14,7 +14,7 @@ OpenWeatherMap API
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/weather-app.git  
+git clone https://github.com/UTTAM-31/weather-app.git  
 cd weather-app  
 Simply open index.html in your browser to run the app!
 
